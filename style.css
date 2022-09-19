@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;400;700&display=swap');
+
+h1 {
+    margin-top: 50px;
+    color: #29da58;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Bungee', monospace;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+p{
+    text-align: center;
+    font-size: small;
+    margin-top: 20px;
+}
+
+nav {
+    text-align: center;
+}
+
+a {
+    color: #cd07e3;
+}
+
+a:visited {
+    color: #868686;
+}
+
+.center {
+    padding-top: 1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+.randomizer {
+    position: absolute;
+    top: 32em;
+    left: 5%;
+    margin-left: 1125px;
+    background: url(/assets/randomizer.gif) no-repeat;
+    width: 280px;
+    height: 280px;
+}
