@@ -45,7 +45,7 @@ a:visited {
     top: 32em;
     left: 5%;
     margin-left: 1125px;
-    background: url(/assets/randomizer.gif) no-repeat;
+    background: url(./assets/randomizer.gif) no-repeat;
     width: 280px;
     height: 280px;
 }
